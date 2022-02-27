@@ -1,4 +1,4 @@
-Read Me:
+---------------------------------------------Read Me-----------------------------------------------------
 
 1. All trained models with testing codes and extracted data with
 different modalities are released here, based on our recently published paper:
@@ -7,7 +7,27 @@ different modalities are released here, based on our recently published paper:
 "Training radiomics-based CNNs for clinical outcome prediction: Challenges, strategies and findings." 
 Artificial Intelligence in Medicine 123 (2022): 102230.
 
-So, please refer to our paper in your manuscript if you use our codes, trained models and released data.
+So, please refer to our paper in your manuscript if you use our codes, trained models and extracted data.
 Thank you.
 
-2. 
+2. About contents in this repository, details about them are introduced below:
+
+   --> folder: trained_Models: 
+               a) on_CT_data: here we used the released central slice CT data [3] to train and test our models.
+               b) on_CT+GTV_data: here we used the extracted data by ourselves to train and test our models based on raw data from [2].
+   
+   --> folder: extrated_Data: 
+               a) CT_data: here please refer to the published reference [3] in Acknowledgements below.
+               b) CT+GTV_data: here we extracted the CT+GTV data from the raw data from [2].
+   
+   --> folder: codes: 
+               a) DM: please used our trained models (DM) to test restuls on testing sets. 
+               b) LRF: please used our trained models (LRF) to test restuls on testing sets. 
+               c) OS: please used our trained models (OS) to test restuls on testing sets. 
+
+Acknowledgements:
+[2] Vallieres M, Kay-Rivest E, Perrin LJ, Liem X, Furstoss C, Aerts HJ, Khaouam N,
+Nguyen-Tan PF, Wang CS, Sultanem K, Seuntjens J. Radiomics strategies for risk
+assessment of tumour failure in head-and-neck cancer. Sci Rep 2017;7(1):1–14.
+[3] Diamant A, Chatterjee A, Valli`eres M, Shenouda G, Seuntjens J. Deep learning in
+head & neck cancer outcome prediction. Sci Rep 2019;9(1):1–10. 
