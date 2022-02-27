@@ -1,0 +1,13 @@
+Read Me:
+
+1. All trained models with testing codes and extracted data with
+different modalities are released here, based on our recently published paper:
+
+[1] Pang, Shuchao, Matthew Field, Jason Dowling, Shalini Vinod, Lois Holloway, and Arcot Sowmya. 
+"Training radiomics-based CNNs for clinical outcome prediction: Challenges, strategies and findings." 
+Artificial Intelligence in Medicine 123 (2022): 102230.
+
+So, please refer to our paper in your manuscript if you use our codes, trained models and released data.
+Thank you.
+
+2. 
