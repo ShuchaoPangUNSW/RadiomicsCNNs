@@ -3,14 +3,18 @@
 1. All trained models with testing codes and extracted data with
 different modalities are released here, based on our recently published paper:
 
-[1] Pang, Shuchao, Matthew Field, Jason Dowling, Shalini Vinod, Lois Holloway, and Arcot Sowmya. 
-"Training radiomics-based CNNs for clinical outcome prediction: Challenges, strategies and findings." 
-Artificial Intelligence in Medicine 123 (2022): 102230.
+   [1] Pang, Shuchao, Matthew Field, Jason Dowling, Shalini Vinod, Lois Holloway, and Arcot Sowmya. 
+   "Training radiomics-based CNNs for clinical outcome prediction: Challenges, strategies and findings." 
+   Artificial Intelligence in Medicine 123 (2022): 102230.
 
-So, please refer to our paper in your manuscript if you use our codes, trained models and extracted data.
-Thank you.
+   So, please refer to our paper in your manuscript if you use our codes, trained models and extracted data.
+   Thank you.
 
-2. About contents in this repository, details about them are introduced below:
+2. Implementation settings:
+   All experiments in this study were implemented on two NVIDIA GPUs of GeForce RTX 2080TI and we coded all experiments 
+   using Python 3.6.9 and Tensorflow 1.14.0.
+
+3. About contents in this repository, details about them are introduced below:
 
    --> folder: trained_Models: 
                a) on_CT_data: here we used the released central slice CT data [3] to train and test our models.
