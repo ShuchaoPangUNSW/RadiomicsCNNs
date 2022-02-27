@@ -18,7 +18,8 @@ different modalities are released here, based on our recently published paper:
 
    --> folder: trained_Models: 
                a) on_CT_data: here we used the released central slice CT data [3] to train and test our models.
-               b) on_CT+GTV_data: here we used the extracted data by ourselves to train and test our models based on raw data from [2].
+               b) on_CT+GTV_data: here we used the extracted data by ourselves to train and test our models based on 
+               raw data from [2].
    
    --> folder: extrated_Data: 
                a) CT_data: here please refer to the published reference [3] in Acknowledgements below.
