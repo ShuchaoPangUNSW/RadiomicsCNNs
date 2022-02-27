@@ -36,8 +36,8 @@ different modalities are released here, based on our recently published paper:
                   3) OS: please used our trained models (OS) to test restuls on testing sets. 
 
 Acknowledgements:
-[2] Vallieres M, Kay-Rivest E, Perrin LJ, Liem X, Furstoss C, Aerts HJ, Khaouam N,
-Nguyen-Tan PF, Wang CS, Sultanem K, Seuntjens J. Radiomics strategies for risk
-assessment of tumour failure in head-and-neck cancer. Sci Rep 2017;7(1):1–14.
-[3] Diamant A, Chatterjee A, Valli`eres M, Shenouda G, Seuntjens J. Deep learning in
-head & neck cancer outcome prediction. Sci Rep 2019;9(1):1–10. 
+   [2] Vallieres M, Kay-Rivest E, Perrin LJ, Liem X, Furstoss C, Aerts HJ, Khaouam N,
+   Nguyen-Tan PF, Wang CS, Sultanem K, Seuntjens J. Radiomics strategies for risk
+   assessment of tumour failure in head-and-neck cancer. Sci Rep 2017;7(1):1–14.
+   [3] Diamant A, Chatterjee A, Valli`eres M, Shenouda G, Seuntjens J. Deep learning in
+   head & neck cancer outcome prediction. Sci Rep 2019;9(1):1–10. 
