@@ -1,0 +1,3 @@
+-------------readme-on_CT_data-----------------
+all trained models are based on the public and released data with CT (central slice) from reference [3]. 
+So, please refer to it and use the CT data to test our codes with our trained models.
