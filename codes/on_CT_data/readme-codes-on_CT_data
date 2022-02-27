@@ -1,0 +1,6 @@
+-------------------------readme-codes-on_CT_data----------------
+here readers can use our provided codes and trained models for testing and comparison. Here the data is provided from reference [3], please download it from [3].
+
+Please note in these codes:
+    1. please modify the location of data you download;
+    2. please modify the location of our provided and trained models.
