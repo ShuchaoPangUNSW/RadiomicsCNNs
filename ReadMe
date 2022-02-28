@@ -12,7 +12,8 @@ different modalities are released here, based on our recently published paper:
 
 2. Implementation settings:
    All experiments in this study were implemented on two NVIDIA GPUs of GeForce RTX 2080TI and we coded all experiments 
-   using Python 3.6.9 and Tensorflow 1.14.0.
+   using Python 3.6.9 and Tensorflow 1.14.0. Here, we also provided the dependencies.txt file for readers, where you can
+   find more detailed information (e.g., versions) of used libraries in our environment for this repository. 
 
 3. About contents in this repository, details about them are introduced below:
 
